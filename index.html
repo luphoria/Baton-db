@@ -4,45 +4,17 @@
     <meta charset="utf-8">
     <title>[Baton Imports]</title>
   </head>
-  <style media="screen">
-  input[type="file"] {
-    z-index: -1;
-    position: absolute;
-    opacity: 0;
-    }
-
-    input:focus + label {
-    outline: 2px solid;
-    }
-  </style>
-  <script type="text/javascript">
-  window.onload=function(){
-    var input = document.getElementById( 'uploadimport' );
-    var infoArea = document.getElementById( 'importlist' );
-    input.addEventListener( 'change', showFileName );
-    function showFileName( event ) {
-      var input = event.srcElement;
-      var fileName = input.files[0].name;
-      infoArea.textContent = fileName;
-    }
-  }
-  </script>
   <body>
     <pre>
 
 
       <span style="text-decoration: underline;">Baton Import List</span>
 
-      **********
-
-      <span style="text-decoration: italic;">Upload Import for Baton:</span>
-
-      <span><input type="file" id="uploadimport" multiple required /><label for="uploadimport">Upload file</label></span>
-
-      **********
 
       <span style="text-decoration: italic;">Available Imports for Baton:</span>
-      <ul id="importlist"/>
+      <ul id="importlist">
+      <li>Test Module</li>
+      </ul>
     </pre>
   </body>
 </html>
