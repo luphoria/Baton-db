@@ -6,6 +6,12 @@ Baton is for windows batch files, it creates a function like python's import
 function so you can import handy commands. Baton is currently in early developement
 stages so if you find a bug or have a suggestion please make an issue on the repository.
 
+*How do i install it?*
+
+Baton can be downloaded from the repository website (https://crqshes.github.io/Baton-db/)
+under the downloads section. Once downloaded simply double click the downloaded executable
+and it should start.
+
 > Baton Currently Requires **.NET core**<br>
 
 # Usage
