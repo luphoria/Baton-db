@@ -10,9 +10,12 @@ stages so if you find a bug or have a suggestion please make an issue on the rep
 # Usage
 
 Usage is simple, all you have to do is:
-> Import [Function]<br>
+> Import [Function]
+
 Then to use your imported function:
-> call [Function] [Params]<br>
+
+> call [Function] [Params]
+
 *(In a batch file)*
 *list of available functions at: https://crqshes.github.io/Baton-db/*
 
