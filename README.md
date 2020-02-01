@@ -36,3 +36,9 @@ with your function and a short description of what it does.
 *A tutorial on how to make your own functions/commands can be found here:*
 
 *https://www.instructables.com/id/How-to-Create-your-own-Commands-with-Batch/*
+
+## Checklist
+
+- Add Live Update Feature
+- Add easier way to submit functions
+- Add Ability to export batch file
