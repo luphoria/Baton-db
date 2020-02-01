@@ -1,1 +1,1 @@
-Set-ItemProperty -path HKCU:\Environment\ -Name Path -Value "$((Get-ItemProperty -path HKCU:\Environment\ -Name Path).Path);C:\Users\$env:UserName\Baton\Imports"
+Set-ItemProperty -path HKCU:\Environment\ -Name Path -Value "$((Get-ItemProperty -path HKCU:\Environment\ -Name Path).Path)C:\Baton\Imports;"
