@@ -21,7 +21,7 @@ Usage is simple, all you have to do is:
 
 Then to use your imported function:
 
-> call [Function] [Params]
+> [Function] [Params]
 
 *(In a batch file)*
 
