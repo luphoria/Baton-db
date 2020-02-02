@@ -41,7 +41,6 @@ with your function and a short description of what it does.
 
 - Make website prettier
 - Add Live Update Feature
-+ Add easier way to submit functions
+- Add easier way to submit functions (Doing)
 - Add Ability to export batch file
 
-*+ = Doing*
