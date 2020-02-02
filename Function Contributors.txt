@@ -1,0 +1,9 @@
+A list of people/teams who have contributed there functions or ones that i have used that they made.
+
+*********************
+* Rob Van Der Woude * Rob has not submiited any functions but i have used some of his from his website (functions at https://www.robvanderwoude.com/csharpexamples.php) 
+********************* robvanderwoude.com
+
+- BLAT Development Team, creators of blat.exe, website blat.net
+
+- thborges, creator of datecmd.exe, github https://github.com/thborges
